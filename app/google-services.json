@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16597254562",
+    "firebase_url": "https://xmlandfirbase.firebaseio.com",
+    "project_id": "xmlandfirbase",
+    "storage_bucket": "xmlandfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16597254562:android:ec186ecd1388c72f",
+        "android_client_info": {
+          "package_name": "shafir.irena.xmlandfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16597254562-3pvbpe11s1obkusg51vaer74m758pmci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shafir.irena.xmlandfirbase",
+            "certificate_hash": "f78ded3b4c32550fe4f0a33586d7e57a05821825"
+          }
+        },
+        {
+          "client_id": "16597254562-fvri5ds0kakgdhdhqshh2s6q3r29mp5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63D91qsNZXxZxN4Adk9_0q4Vo7ZLaF-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16597254562-fvri5ds0kakgdhdhqshh2s6q3r29mp5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
